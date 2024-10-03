@@ -1,0 +1,16 @@
+.venv
+.idea
+.env
+data
+media
+dockerfile
+docker-compose.yaml
+KitchenHelper/apps/comments/__init__.py
+KitchenHelper/apps/users/services/__init__.py
+KitchenHelper/apps/comments/serializers/__init__.py
+*.pyc
+*.sqlite3
+**/migrations/**.py
+*/migrations/*.pyc
+
+!**/migrations/__init__.py
