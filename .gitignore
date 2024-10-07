@@ -1,4 +1,6 @@
 .venv
 .idea
 .env
-data
+**.csv
+**.xml
+**.pyc
