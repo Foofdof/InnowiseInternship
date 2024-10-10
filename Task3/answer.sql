@@ -1,3 +1,5 @@
+--Task 3
+
 --3.1
 SELECT
 	category.name as category_name,
