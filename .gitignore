@@ -3,4 +3,11 @@
 .env
 **.csv
 **.xml
+**.json
 **.pyc
+**.sql
+**.yml
+**.png
+Task3/LICENSE.txt
+
+!Task3/answer.sql
