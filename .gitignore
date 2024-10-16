@@ -8,6 +8,11 @@
 **.sql
 **.yml
 **.png
-Task3/LICENSE.txt
 
+Task3/LICENSE.txt
 !Task3/answer.sql
+
+/Task4/Spark_Basics/data/
+/Task4/Spark_Basics/data_parquet/
+/Task4/Spark_Basics/for_history/
+/Task4/Spark_Basics/output/
